@@ -1,4 +1,4 @@
-# Guide Integration Keitaro with MIRA Apps from PlayCash
+# Интеграция Keitaro с приложениями MIRA Apps от Playcash
 
 ## Оглавление
 * [Введение](#introduction)
