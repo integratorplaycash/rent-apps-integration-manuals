@@ -45,10 +45,9 @@ http://opti.mirarentapps.com?miclid={external_id}&status={status}&from=Playcash
 
 
 ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_1.png)
-
 ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_3.png)
-
 ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_2.png)
+
 7. Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 4.
 
 

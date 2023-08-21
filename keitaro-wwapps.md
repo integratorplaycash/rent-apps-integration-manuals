@@ -42,9 +42,7 @@ http://wwapostback.com/postback/subid={external_id}&status={status}&from=PlayCas
 5. События для отправки установите "_**Лид**_" (_**Lead**_), "_**Продажа**_" (_**Sale**_) и "**_Отклонен_**" (**_Rejected_**).
 6. Убедитесь что, что настройки правильны, сверившись со скриншотами ниже:
 
-
 ![Настройки источника трафика Playcash | WWApps Apps Rent Service](assets/keitaro-wwapps/1.6_1.png)
-
 ![Настройки источника трафика Playcash | WWApps Apps Rent Service](assets/keitaro-wwapps/1.6_2.png)
 
 7. Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 4.
