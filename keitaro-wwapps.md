@@ -99,7 +99,7 @@ https://tds.domain.com/{sub2}}?external_id={external_id}&source={source}}&sub3={
 
 
 ## 4. Настройка глобального постбека в PlayCash<a name="chapter-4"></a>
-**[Мануал по настройке трекинг пикселя для Keitaro. Клик.](placash-keitaro-tracking-pixel-setup.md)**
+**[Мануал по настройке трекинг пикселя для Keitaro. Клик.](playcash-keitaro-tracking-pixel-setup.md)**
 
 
 ## Заключение <a name="conclusion"></a>
