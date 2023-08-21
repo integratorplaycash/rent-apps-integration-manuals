@@ -44,11 +44,11 @@ http://opti.mirarentapps.com?miclid={external_id}&status={status}&from=Playcash
 6. Убедитесь что, что настройки правильны, сверившись со скриншотами ниже:
 
 
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qh0i0su9fgxc0wmzmykd.png)
+![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/mira-apps/1.5_1.png)
 
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpwgrl076ih3hazln5ti.png)
+![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/mira-apps/1.5_3.png)
 
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/munueoxoekc6cbpqg2mx.png)
+![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/mira-apps/1.5_2.png)
 7. Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 4.
 
 
@@ -63,7 +63,7 @@ https://track.way2pc.com/click?pid={pid}&offer_id={oid}&l={lid}&sub2={sub2}&sub3
 
 4. Проверьте все ли настроено корректно. Для этого сверьтесь с скриншотом ниже:
 
-![Настройка шаблона для офферов Playcash в Keitaro](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iynji4str10f21lh67ye.png)
+![Настройка шаблона для офферов Playcash в Keitaro](assets/mira-apps/2.4.png)
 5. Если все сделано правильно, кликните на кнопку "_Сохранить_" (_Save_).
 6. Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 2.
 
@@ -82,9 +82,7 @@ https://track.way2pc.com/click?pid={pid}&offer_id={oid}&l={lid}&sub2={sub2}&sub3
     - Срок уникальности: **8760 часов**.
 5. Создайте основной поток. Добавьте в него шаблон для офферов Playcash, который вы создали на предыдущем пункте этого мануала. Cсылка на справочную информацию о потоках в Keitaro приведена в [разделе Справочные материалы](#docs), пункт 3.
 6. Сверьте с примером настроенной кампании. Ниже приведен пример настроек вашей кампании:
-   ![Пример настроенной для слива трафика с приложений MIRA Apps кампании
-   ](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kpn7lm70zkkzpypppb3b.png)
-   ![Пример настроенного потока в кампании](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fz1mik3gzat9xek7g81v.png)
+   ![Пример настроенной для слива трафика с приложений MIRA Apps кампании](assets/mira-apps/3.6.png)
 7. Кликните на кнопку "_Создать_" (_Create_). Скопируйте полученную ссылку. Далее все зависит от того нужен ли вам динамический алиас:
 - Готовая ссылка будет выглядить так, если алиас остается статическим (весь трафик идет в одну кампанию в вашем трекере):
 ```
