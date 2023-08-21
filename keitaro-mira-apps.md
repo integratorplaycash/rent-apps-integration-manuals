@@ -43,9 +43,9 @@ http://opti.mirarentapps.com?miclid={external_id}&status={status}&from=Playcash
 * События для отправки установите "_**Лид**_" (_**Lead**_) и "_**Продажа**_" (_**Sale**_).
 * Убедитесь что, что настройки правильны, сверившись со скриншотами ниже:
 
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_1.png)
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_3.png)
-![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_2.png)
+  ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_1.png)
+  ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_3.png)
+  ![Настройки источника трафика Playcash | MIRA Apps Rent Service](assets/keitaro-mira-apps/1.5_2.png)
 
 * Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 4.
 
