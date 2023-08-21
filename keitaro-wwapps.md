@@ -89,7 +89,7 @@ https://track.way2pc.com/click?pid={pid}&offer_id={oid}&l={lid}&sub2={sub2}&sub3
 https://tds.domain.com/alias_example?external_id={external_id}&source={source}}&sub2={sub2}&sub3={sub3}&pid={pid}&oid={oid}&lid={lid}&bundle={bundle}&google_adid={google_adid}&adset={adset}&adset_id={adset_id}
 ```
 - Если же вы желаете получать из нейминга/диплинка в источнике трафика алиас (идентификатор) кампании и перенаправлять трафик сразу в конкретную кампанию, вы можете использовать для этого метку `sub2`. В таком случае готовая ссылка будет иметь следующий вид:
-> [!NOTE]
+> [!IMPORTANT]
 > **ВАЖНО: В таком случае во всех новых кампаниях для слива трафика с наших прил нужно указывать источник трафика, созданный в первом пункте данного мануала.**
 ```
 https://tds.domain.com/{sub2}}?external_id={external_id}&source={source}}&sub3={sub3}&pid={pid}&oid={oid}&lid={lid}&bundle={bundle}&google_adid={google_adid}&adset={adset}&adset_id={adset_id}
