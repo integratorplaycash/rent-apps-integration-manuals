@@ -44,9 +44,9 @@ http://trafficdevilsopti.website/api/opti/?p={app_id}&a={ad_id}&d={deviceID}&e={
 6. Убедитесь что, что настройки правильны, сверившись со скриншотами ниже:
 
 
-![Настройки источника трафика Playcash | TD Apps Rent Service](assets/keitaro-td-apps/1.6_1.png)
-
 ![Настройки источника трафика Playcash | TD Apps Rent Service](assets/keitaro-td-apps/1.6_2.png)
+
+![Настройки источника трафика Playcash | TD Apps Rent Service](assets/keitaro-td-apps/1.6_1.png)
 
 7. Дополнительные материалы по теме приведены в [разделе Справочные материалы](#docs), пункт 4.
 
