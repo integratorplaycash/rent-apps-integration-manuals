@@ -110,13 +110,6 @@ https://tds.domain/{sub2}?source={source}&sub3={sub3}&sub4={sub4}&sub5={sub5}&su
 3. Настроен источник трафика TD Apps и сгенерирована трек-ссылка для слива трафика на приложения.
    Если у вас возникли какие-то вопросы или проблемы в процессе интеграции, пишите в рабочий чат с вашим персональным менеджером. Мы обязательно ответим на ваши вопросы и поможем решить проблемы, связанные с подготовкой к запуску трафика.
 
-Также рекомендуем подписаться на наши ресурсы, а именно:
-- [Telegram канал](https://t.me/PlayCashNetwork)
-- [Telegram чат](https://t.me/playcashchat)
-- [Страница в Instagram](https://www.instagram.com/playcash.network/)
-- [Страница в Facebook](https://www.facebook.com/PlayCash-Gambling-Betting-Affiliate-Network-109938504205885/)
-- [Страница в X (бывший Twitter)](https://twitter.com/PlayCashNetwork)
-
 ---
 
 ## Справочные материалы <a name="docs"></a>
